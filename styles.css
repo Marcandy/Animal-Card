@@ -1,0 +1,36 @@
+/* add your CSS here */
+.border {
+	border: 1px inset;
+	border-radius: 10px;
+	box-shadow: 6px 6px 6px 6px #ccc;
+	padding: 15px;
+	width: 315px;
+	background-color: #D7F0A2;
+}
+
+.image {
+	border: 2px groove;
+	width: 300px;
+	margin-left: 5px;
+}
+.box {
+	border: 2px groove;
+	padding: 5px;
+	border-radius: 10px;
+	font-family: Times;
+}
+
+.italic{
+	font-style: italic;
+}
+
+.bold {
+	font-weight: bold;
+	font-style: normal;
+}
+
+.list {
+	font-style: italic;
+	list-style-type: none;
+	padding: 0;
+}
